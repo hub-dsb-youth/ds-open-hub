@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="DS OPEN HUB Logo" width="150" height="150">
+  <img src="D:\Pictures\Designing\LOGO\LOGO\LOGO_1.png" alt="Logo" width="150" height="150">
   <h1 align="center">🌟 DS OPEN HUB 🌟</h1>
 
   <p align="center">
