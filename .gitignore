@@ -1,0 +1,27 @@
+# Existing local preference
+.github
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS noise
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Streamlit/runtime cache
+.streamlit/secrets.toml
+
+
