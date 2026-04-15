@@ -44,7 +44,11 @@ const config: Config = {
           routeBasePath: 'docs',
           editUrl: 'https://github.com/hub-dsb-youth/ds-open-hub/tree/main/website/',
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          routeBasePath: 'blog',
+          editUrl: 'https://github.com/hub-dsb-youth/ds-open-hub/tree/main/website/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -76,6 +80,8 @@ const config: Config = {
         {to: '/docs/projects', label: 'Projects', position: 'left'},
         {to: '/docs/datasets', label: 'Datasets', position: 'left'},
         {to: '/docs/ebooks', label: 'Ebooks', position: 'left'},
+        {to: '/docs/roadmap', label: 'Roadmap', position: 'left'},
+        {to: '/blog', label: 'Blogs', position: 'left'},
         {
           href: 'https://github.com/hub-dsb-youth/ds-open-hub',
           label: 'GitHub',
@@ -100,6 +106,14 @@ const config: Config = {
             {
               label: 'Ebooks',
               to: '/docs/ebooks',
+            },
+            {
+              label: 'Roadmap',
+              to: '/docs/roadmap',
+            },
+            {
+              label: 'Blogs',
+              to: '/blog',
             },
           ],
         },

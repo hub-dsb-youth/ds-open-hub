@@ -28,6 +28,7 @@ const sidebars: SidebarsConfig = {
     },
     'datasets',
     'ebooks',
+    'roadmap',
   ],
 };
 
