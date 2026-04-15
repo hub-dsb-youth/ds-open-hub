@@ -4,6 +4,14 @@ sidebar_position: 2
 
 # 1.2 Telecom Customer Churn Analysis
 
+## Quick Links
+
+- [Open project folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/1.%20PROJECTS/1.2.%20Telecom-Customer-Churn-Analysis/Telecom-Customer-Churn-Analysis)
+- [Open README](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.2.%20Telecom-Customer-Churn-Analysis/Telecom-Customer-Churn-Analysis/README.md)
+- [Open cleaned dataset](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.2.%20Telecom-Customer-Churn-Analysis/Telecom-Customer-Churn-Analysis/data_preprocesed/Telco-Customer-Churn-Cleaned.csv)
+- [Download cleaned dataset](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.2.%20Telecom-Customer-Churn-Analysis/Telecom-Customer-Churn-Analysis/data_preprocesed/Telco-Customer-Churn-Cleaned.csv?raw=1)
+- [Open Streamlit script](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.2.%20Telecom-Customer-Churn-Analysis/Telecom-Customer-Churn-Analysis/predict/predict_streamlit.py)
+
 ## Tiếng Việt
 
 ### Mục tiêu

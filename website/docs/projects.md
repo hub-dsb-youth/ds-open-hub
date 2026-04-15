@@ -6,6 +6,12 @@ sidebar_position: 2
 
 DS Open Hub hiện có các project trọng tâm trong thư mục 1. PROJECTS.
 
+## Quick Links
+
+- [Open repository](https://github.com/hub-dsb-youth/ds-open-hub)
+- [Download full repository (.zip)](https://github.com/hub-dsb-youth/ds-open-hub/archive/refs/heads/main.zip)
+- [Open 1. PROJECTS folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/1.%20PROJECTS)
+
 Trang này là index tổng hợp; chi tiết song ngữ Việt/Anh cho từng dự án nằm ở các trang con bên dưới.
 
 ## Danh mục chi tiết

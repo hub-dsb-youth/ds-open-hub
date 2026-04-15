@@ -4,6 +4,13 @@ sidebar_position: 3
 
 # 1.3 Stock Screener
 
+## Quick Links
+
+- [Open project folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/1.%20PROJECTS/1.3.%20Stock_Screener)
+- [Open README](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.3.%20Stock_Screener/README.md)
+- [Open app.py](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.3.%20Stock_Screener/app.py)
+- [Open requirements.txt](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.3.%20Stock_Screener/requirements.txt)
+
 ## Tiếng Việt
 
 ### Mục tiêu

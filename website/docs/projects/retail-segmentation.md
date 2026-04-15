@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # 1.1 Retail Customer Classification and Segmentation
 
+## Quick Links
+
+- [Open project folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/1.%20PROJECTS/1.1.%20Retail%20Customer%20Classification%20%26%20Segmentation%20Analysis)
+- [Open README](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.1.%20Retail%20Customer%20Classification%20%26%20Segmentation%20Analysis/README.md)
+- [Open notebook](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.1.%20Retail%20Customer%20Classification%20%26%20Segmentation%20Analysis/RFM_Analysis.ipynb)
+- [Download notebook](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.1.%20Retail%20Customer%20Classification%20%26%20Segmentation%20Analysis/RFM_Analysis.ipynb?raw=1)
+
 ## Tiếng Việt
 
 ### Mục tiêu

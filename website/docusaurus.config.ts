@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: process.env.DOCS_URL || 'https://your-github-username.github.io',
+  url: process.env.DOCS_URL || 'https://hub-dsb-youth.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: process.env.DOCS_BASE_URL || '/ds-open-hub/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: process.env.GITHUB_OWNER || 'your-github-username',
+  organizationName: process.env.GITHUB_OWNER || 'hub-dsb-youth',
   projectName: process.env.GITHUB_REPO || 'ds-open-hub',
 
   onBrokenLinks: 'warn',
@@ -42,7 +42,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'docs',
-          editUrl: 'https://github.com/your-github-username/ds-open-hub/tree/main/website/',
+          editUrl: 'https://github.com/hub-dsb-youth/ds-open-hub/tree/main/website/',
         },
         blog: false,
         theme: {
@@ -76,7 +76,7 @@ const config: Config = {
         {to: '/docs/projects', label: 'Projects', position: 'left'},
         {to: '/docs/datasets', label: 'Datasets', position: 'left'},
         {
-          href: 'https://github.com/your-github-username/ds-open-hub',
+          href: 'https://github.com/hub-dsb-youth/ds-open-hub',
           label: 'GitHub',
           position: 'right',
         },
@@ -116,7 +116,7 @@ const config: Config = {
           items: [
             {
               label: 'Repository',
-              href: 'https://github.com/your-github-username/ds-open-hub',
+              href: 'https://github.com/hub-dsb-youth/ds-open-hub',
             },
             {
               label: 'Hướng dẫn deploy',

@@ -4,6 +4,13 @@ sidebar_position: 4
 
 # 1.4 Bank Churn Analysis
 
+## Quick Links
+
+- [Open project folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/1.%20PROJECTS/1.4.%20bank-churn-analysis)
+- [Open README](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.4.%20bank-churn-analysis/README.md)
+- [Open processed dataset](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.4.%20bank-churn-analysis/data/processed/Bank-Customer-churn-clean.csv)
+- [Download processed dataset](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/1.%20PROJECTS/1.4.%20bank-churn-analysis/data/processed/Bank-Customer-churn-clean.csv?raw=1)
+
 ## Tiếng Việt
 
 ### Mục tiêu
