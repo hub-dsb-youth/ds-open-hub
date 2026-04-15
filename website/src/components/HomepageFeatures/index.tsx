@@ -11,32 +11,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Projects thực hành',
+    title: 'Projects thực chiến',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Tổng hợp các bài toán phân tích dữ liệu, churn prediction và stock
-        screening với notebook, báo cáo và ứng dụng demo.
+        Học theo case thật: churn analysis, stock screener, segmentation.
+        Mỗi project có notebook, báo cáo và link truy cập nhanh tới mã nguồn.
       </>
     ),
   },
   {
-    title: 'Datasets có mô tả rõ ràng',
+    title: 'Datasets sẵn sàng phân tích',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Mỗi bộ dữ liệu đều có phần Data Dictionary, lưu ý tiền xử lý và gợi ý
-        bài toán để học tập nhanh hơn.
+        Có Data Dictionary, hướng dẫn tiền xử lý và link tải trực tiếp CSV để
+        bạn bắt đầu EDA hoặc modeling trong vài phút.
       </>
     ),
   },
   {
-    title: 'Ebook theo từng mảng',
+    title: 'Thư viện Ebooks nổi bật',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Kho ebook lớn theo chủ đề như Data Science, Machine Learning, Python,
-        SQL và Toán học phục vụ tự học dài hạn.
+        Kho tài liệu lớn theo từng chủ đề: Python, SQL, ML, Deep Learning,
+        Mathematics. Mở online hoặc tải xuống chỉ bằng một lần bấm.
       </>
     ),
   },

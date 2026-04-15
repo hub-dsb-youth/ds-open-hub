@@ -21,12 +21,17 @@ function HomepageHeader() {
           <Link
             className="button button--primary button--lg"
             to="/docs/intro">
-            Bắt đầu với tài liệu
+            Khám phá DS Open Hub
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/projects">
-            Xem danh mục dự án
+            Xem Projects
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/ebooks">
+            Mở thư viện Ebooks
           </Link>
         </div>
       </div>
@@ -39,7 +44,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={siteConfig.title}
-      description="Cổng tài nguyên học tập và nghiên cứu Khoa học Dữ liệu trong Kinh doanh">
+      description="Cổng tài nguyên mở gồm projects, datasets và thư viện ebooks cho cộng đồng học Data Science">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

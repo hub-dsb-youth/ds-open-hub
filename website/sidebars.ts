@@ -28,7 +28,6 @@ const sidebars: SidebarsConfig = {
     },
     'datasets',
     'ebooks',
-    'deployment',
   ],
 };
 

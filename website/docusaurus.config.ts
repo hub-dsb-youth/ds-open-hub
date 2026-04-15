@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'DS Open Hub',
-  tagline: 'Knowledge Hub for Data Science Learning and Research',
+  tagline: 'Ngân hàng tri thức mở cho học tập, thực hành và nghiên cứu Data Science',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -75,6 +75,7 @@ const config: Config = {
         },
         {to: '/docs/projects', label: 'Projects', position: 'left'},
         {to: '/docs/datasets', label: 'Datasets', position: 'left'},
+        {to: '/docs/ebooks', label: 'Ebooks', position: 'left'},
         {
           href: 'https://github.com/hub-dsb-youth/ds-open-hub',
           label: 'GitHub',
@@ -95,6 +96,10 @@ const config: Config = {
             {
               label: 'Projects',
               to: '/docs/projects',
+            },
+            {
+              label: 'Ebooks',
+              to: '/docs/ebooks',
             },
           ],
         },
@@ -117,10 +122,6 @@ const config: Config = {
             {
               label: 'Repository',
               href: 'https://github.com/hub-dsb-youth/ds-open-hub',
-            },
-            {
-              label: 'Hướng dẫn deploy',
-              to: '/docs/deployment',
             },
           ],
         },
