@@ -1,0 +1,59 @@
+---
+sidebar_position: 3
+---
+
+# 1.3 Stock Screener
+
+## Tiếng Việt
+
+### Mục tiêu
+
+- Xây dựng công cụ sàng lọc cổ phiếu theo mô hình đa yếu tố.
+- Chấm điểm theo Value, Quality, Growth, Momentum, Liquidity, Risk.
+
+### Thành phần chính
+
+- Streamlit UI cho nhập mã và hiển thị kết quả
+- Module xử lý dữ liệu và scoring
+- Hình minh họa giao diện trong thư mục images
+
+### Công nghệ
+
+- Python
+- Streamlit
+- pandas, numpy, matplotlib
+- vnstock
+
+### Giá trị học tập
+
+- Chuẩn hóa tín hiệu khác thang đo bằng z-score.
+- Thiết kế quy tắc lọc thanh khoản và xếp hạng đa yếu tố.
+
+## English
+
+### Objective
+
+- Build a multi-factor stock screening tool for Vietnamese equities.
+- Score symbols across Value, Quality, Growth, Momentum, Liquidity, and Risk.
+
+### Main assets
+
+- Streamlit UI for symbol input and ranking output
+- Core data-processing and scoring module
+- UI screenshots under the images directory
+
+### Stack
+
+- Python
+- Streamlit
+- pandas, numpy, matplotlib
+- vnstock
+
+### Learning value
+
+- Normalize mixed-scale indicators using z-score.
+- Design practical liquidity filters and ranking logic.
+
+## Repository Path
+
+- 1. PROJECTS/1.3. Stock_Screener

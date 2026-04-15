@@ -30,10 +30,9 @@
 
 Kho lưu trữ được phân chia thành các chuyên mục rõ ràng để bạn dễ dàng tra cứu:
 
-* 📁 `Tai-Lieu-Hoc-Tap/`: Tổng hợp giáo trình, slide bài giảng các môn học cơ sở và chuyên ngành.
-* 📁 `De-Thi-Tham-Khao/`: Bộ sưu tập đề thi các năm để phục vụ ôn tập.
-* 📁 `Nghien-Cuu-Khoa-Hoc/`: Các bài báo cáo, khóa luận, và tài liệu NCKH nổi bật.
-* 📁 `Source-Code-Mau/`: Tổng hợp các đoạn code, thuật toán hữu ích ứng dụng trong phân tích dữ liệu và học máy.
+* 📁 `1. PROJECTS/`: Tổng hợp các dự án thực hành và phân tích dữ liệu.
+* 📁 `2. EBOOK/`: Kho ebook theo lĩnh vực (Data Science, Machine Learning, Python, SQL, Mathematics, Deep Learning, ...).
+* 📁 `3. DATASET/`: Kho dữ liệu mẫu phục vụ học tập và nghiên cứu.
 
 > **Lưu ý:** Cấu trúc thư mục có thể được cập nhật và mở rộng theo thời gian để đáp ứng nhu cầu học tập của sinh viên.
 

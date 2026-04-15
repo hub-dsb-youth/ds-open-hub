@@ -1,0 +1,54 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #005f73;
+  --ifm-color-primary-dark: #005566;
+  --ifm-color-primary-darker: #005061;
+  --ifm-color-primary-darkest: #004250;
+  --ifm-color-primary-light: #006980;
+  --ifm-color-primary-lighter: #006e85;
+  --ifm-color-primary-lightest: #007c96;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #f6fbfc;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #94d2bd;
+  --ifm-color-primary-dark: #7cc9ae;
+  --ifm-color-primary-darker: #70c4a7;
+  --ifm-color-primary-darkest: #4eb794;
+  --ifm-color-primary-light: #acdbc9;
+  --ifm-color-primary-lighter: #b8e0d1;
+  --ifm-color-primary-lightest: #dcf1e9;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.hero {
+  background:
+    radial-gradient(circle at 15% 20%, rgba(238, 155, 0, 0.16), transparent 30%),
+    radial-gradient(circle at 85% 0%, rgba(10, 147, 150, 0.18), transparent 28%),
+    linear-gradient(120deg, #f5f9ff 0%, #ebfbfc 45%, #fff7eb 100%);
+}
+
+.hero__title {
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  letter-spacing: -0.02em;
+}
+
+.hero__subtitle {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button.button--lg {
+  margin: 0.35rem;
+  border-radius: 999px;
+}
