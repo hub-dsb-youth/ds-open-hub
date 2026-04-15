@@ -2,92 +2,96 @@
 sidebar_position: 5
 ---
 
-# Roadmap Hoc DS and AI (Improved)
+# Roadmap Học DS and AI (Improved)
 
-Trang nay la phien ban mo rong tu goi y lo trinh cho tan sinh vien, tap trung vao 3 truc chinh: Toan, Tech and Tools, Domain.
+Đây là phiên bản mở rộng từ gợi ý lộ trình cho tân sinh viên, tập trung vào 3 trục chính: Toán, Tech and Tools, Domain.
 
-## 1) Nen tang cot loi
+## 1) Nền tảng cốt lõi
 
-### Toan (khong duoc bo qua)
+### Toán (không được bỏ qua)
 
 - Linear Algebra: vector, matrix, eigendecomposition, SVD.
-- Calculus: dao ham, gradient, toi uu ham nhieu bien.
-- Probability and Statistics: phan phoi, uoc luong, kiem dinh, confidence interval.
+- Calculus: đạo hàm, gradient, tối ưu hàm nhiều biến.
+- Probability and Statistics: phân phối, ước lượng, kiểm định, confidence interval.
 - Optimization: convexity, gradient descent, regularization.
 
-Muc tieu:
+Mục tiêu:
 
-- Khong hoc thuoc cong thuc mot cach may moc.
-- Hieu vi sao model hoat dong, khi nao model fail, va cach sua.
+- Không học thuộc công thức một cách máy móc.
+- Hiểu vì sao model hoạt động, khi nào model fail, và cách sửa.
 
 ## 2) Tech and Tools
 
-### Bat buoc
+### Bắt buộc
 
-- Python: cu phap, data structures, functions, modules, virtual environments.
-- SQL: truy van, join, group by, window functions.
-- Git and GitHub: branch, commit ro rang, pull request workflow.
+- Python: cú pháp, data structures, functions, modules, virtual environments.
+- SQL: truy vấn, join, group by, window functions.
+- Git and GitHub: branch, commit rõ ràng, pull request workflow.
 
-### Data stack can luyen ky
+### Data stack cần luyện kỹ
 
 - Data handling: pandas, numpy.
-- Visualization: matplotlib, seaborn (va Power BI cho dashboard).
-- Machine learning co ban: scikit-learn.
+- Visualization: matplotlib, seaborn (và Power BI cho dashboard).
+- Machine learning cơ bản: scikit-learn.
 
-### Nang cao theo huong AI
+### Nâng cao theo hướng AI
 
-- Deep Learning: PyTorch hoac TensorFlow.
-- MLOps can ban: experiment tracking, model versioning, deployment basics.
+- Deep Learning: PyTorch hoặc TensorFlow.
+- MLOps cơ bản: experiment tracking, model versioning, deployment basics.
 
 ## 3) Domain knowledge
 
-- Chon mot linh vuc de dao sau: Finance, Healthcare, Insurance, Retail, Marketing...
-- Hoc tu business question truoc, roi moi chon model sau.
-- Vi du domain tai chinh: can hieu RSI, MACD, thanh khoan, bien dong, risk.
+- Chọn một lĩnh vực để đào sâu: Finance, Healthcare, Insurance, Retail, Marketing...
+- Học từ business question trước, rồi mới chọn model sau.
+- Ví dụ domain tài chính: cần hiểu RSI, MACD, thanh khoản, biến động, risk.
 
-## 4) Ai phu hop voi nganh nay?
+## 4) Ai phù hợp với ngành này?
 
-- Co tu duy phan tich va giai quyet van de.
-- Co kha nang tu hoc cao va ky luat.
-- To mo theo nghia tich cuc: dam moi, ben bi, biet break down bai toan lon.
-- Co hung thu voi du lieu va cong nghe.
+- Có tư duy phân tích và giải quyết vấn đề.
+- Có khả năng tự học cao và kỷ luật.
+- Tò mò theo nghĩa tích cực: dám mò, bền bỉ, biết break down bài toán lớn.
+- Có hứng thú với dữ liệu và công nghệ.
 
-## 5) Lo trinh 12 thang de xuat
+## 5) Lộ trình 12 tháng đề xuất
 
-### 0-3 thang
+### 0-3 tháng
 
-- Hoc Python co ban va SQL nen tang.
-- Lam 2 mini projects EDA voi dataset nho.
-- Lam quen Git, GitHub, VS Code.
+- Học Python cơ bản và SQL nền tảng.
+- Làm 2 mini projects EDA với dataset nhỏ.
+- Làm quen Git, GitHub, VS Code.
 
-### 4-6 thang
+### 4-6 tháng
 
-- Hoc Statistics, feature engineering, model ML co ban.
-- Thuc hanh classification and regression voi scikit-learn.
-- Viet README chuan cho tung project.
+- Học Statistics, feature engineering, model ML cơ bản.
+- Thực hành classification and regression với scikit-learn.
+- Viết README chuẩn cho từng project.
 
-### 7-9 thang
+### 7-9 tháng
 
-- Hoc dashboard va storytelling voi Power BI.
-- Chon 1 domain de lam project nghiem tuc (finance/churn/marketing).
-- Tap trung vao metric va giai thich insight cho business.
+- Học dashboard và storytelling với Power BI.
+- Chọn 1 domain để làm project nghiêm túc (finance/churn/marketing).
+- Tập trung vào metric và giải thích insight cho business.
 
-### 10-12 thang
+### 10-12 tháng
 
-- Hoc Deep Learning can ban.
-- Lam 1 capstone project co deployment demo.
-- Xay portfolio gom 3-5 project chat luong.
+- Học Deep Learning cơ bản.
+- Làm 1 capstone project có deployment demo.
+- Xây portfolio gồm 3-5 project chất lượng.
 
-## 6) Cach hoc de khong nan
+## 6) Cách học để không nản
 
-1. Moi tuan dat mot muc tieu nho, do duoc.
-2. Moi thang hoan thanh it nhat 1 mini project.
-3. Luon ghi lai bai hoc rut ra sau moi project.
-4. Tim nhom hoc, xin feedback som, sua som.
+1. Mỗi tuần đặt một mục tiêu nhỏ, đo được.
+2. Mỗi tháng hoàn thành ít nhất 1 mini project.
+3. Luôn ghi lại bài học rút ra sau mỗi project.
+4. Tìm nhóm học, xin feedback sớm, sửa sớm.
 
-## 7) Tai nguyen goi y trong DS Open Hub
+## 7) Tài nguyên gợi ý trong DS Open Hub
 
 - Projects: /docs/projects
 - Datasets: /docs/datasets
 - Ebooks: /docs/ebooks
-- Blogs chia se kinh nghiem: /blog
+- Blogs chia sẻ kinh nghiệm: /blog
+
+## 8) Tài liệu tham khảo thêm
+
+- [Google Sheets tham khảo lộ trình học](https://docs.google.com/spreadsheets/d/1mDQ8q6oTigUh4F2Xzh4HttdoGhS00amBmyqN5oRdV9I/edit?gid=531825417#gid=531825417)
