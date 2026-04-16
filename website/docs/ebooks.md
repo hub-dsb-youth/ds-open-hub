@@ -66,11 +66,6 @@ Một số tài liệu nổi bật để mở ngay:
 - [Linear Algebra folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/2.%20EBOOK/Mathematics/Linear%20Algebra)
 - [Probability and Statistics folder](https://github.com/hub-dsb-youth/ds-open-hub/tree/main/2.%20EBOOK/Mathematics/Problability%20and%20Statistics%20for%20DS)
 
-## Cách tổ chức website đề xuất
-
-- Chỉ hiển thị catalog theo lĩnh vực và mô tả ngắn mục tiêu học tập.
-- Không render toàn bộ ebook nặng trực tiếp lên website để tối ưu tốc độ.
-- Dẫn link về thư mục nguồn trong repository để tải hoặc đọc.
 
 ## Gợi ý lộ trình học
 

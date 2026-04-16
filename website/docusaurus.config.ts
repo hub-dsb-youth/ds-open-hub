@@ -121,7 +121,7 @@ const config: Config = {
             },
             {
               label: 'Email liên hệ',
-              href: 'mailto:doan.khdltkd@hub.edu.vn',
+              href: 'https://mail.google.com/mail/?view=cm&fs=1&to=doan.khdltkd@hub.edu.vn',
             },
           ],
         },
