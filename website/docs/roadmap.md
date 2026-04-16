@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Roadmap Học DS and AI (Improved)
+# AI and DS Roadmap 
 
 Đây là phiên bản mở rộng từ gợi ý lộ trình cho tân sinh viên, tập trung vào 3 trục chính: Toán, Tech and Tools, Domain.
 
@@ -93,5 +93,4 @@ Mục tiêu:
 
 ## 8) Tài liệu tham khảo thêm
 
-- [DS_Roadmap.xlsx (mở trên GitHub)](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/DS_Roadmap.xlsx)
-- [DS_Roadmap.xlsx (tải trực tiếp)](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/DS_Roadmap.xlsx?raw=1)
+- [DS_Roadmap.xlsx](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/DS_Roadmap.xlsx?raw=1)

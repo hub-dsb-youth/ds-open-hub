@@ -45,7 +45,4 @@ Trang này là index tổng hợp; chi tiết song ngữ Việt/Anh cho từng d
 - Thành phần chính: notebook, report, dashboard
 - Nguồn: ../1. PROJECTS/1.4. bank-churn-analysis
 
-## Gợi ý gắn demo online
 
-- Host app dự đoán churn và stock screener trên Streamlit Community Cloud
-- Tạo mục Demo Links trong trang này sau khi deploy thành công để người học truy cập trực tiếp
