@@ -33,28 +33,6 @@ sidebar_position: 1
 - Bảng điểm RFM theo khách hàng
 - Nhóm phân khúc có thể hành động (VIP, potential loyalist, at risk)
 
-## English
-
-### Objective
-
-- Analyze customer purchasing behavior and segment users with RFM.
-- Provide business-ready insights for retention and reactivation campaigns.
-
-### Main assets
-
-- Analysis notebook: RFM_Analysis.ipynb
-- Project README with scope and outcomes
-
-### Stack
-
-- Python
-- pandas, matplotlib, scikit-learn (depending on notebook flow)
-
-### Expected outcomes
-
-- Customer-level RFM score table
-- Actionable segments (VIP, potential loyalist, at risk)
-
 ## Repository Path
 
 - 1. PROJECTS/1.1. Retail Customer Classification & Segmentation Analysis

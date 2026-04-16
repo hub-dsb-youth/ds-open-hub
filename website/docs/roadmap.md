@@ -90,8 +90,8 @@ Mục tiêu:
 - Projects: /docs/projects
 - Datasets: /docs/datasets
 - Ebooks: /docs/ebooks
-- Blogs chia sẻ kinh nghiệm: /blog
 
 ## 8) Tài liệu tham khảo thêm
 
-- [Google Sheets tham khảo lộ trình học](https://docs.google.com/spreadsheets/d/1mDQ8q6oTigUh4F2Xzh4HttdoGhS00amBmyqN5oRdV9I/edit?gid=531825417#gid=531825417)
+- [DS_Roadmap.xlsx (mở trên GitHub)](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/DS_Roadmap.xlsx)
+- [DS_Roadmap.xlsx (tải trực tiếp)](https://github.com/hub-dsb-youth/ds-open-hub/blob/main/DS_Roadmap.xlsx?raw=1)

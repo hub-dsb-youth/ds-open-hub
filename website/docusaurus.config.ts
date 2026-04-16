@@ -81,7 +81,6 @@ const config: Config = {
         {to: '/docs/datasets', label: 'Datasets', position: 'left'},
         {to: '/docs/ebooks', label: 'Ebooks', position: 'left'},
         {to: '/docs/roadmap', label: 'Roadmap', position: 'left'},
-        {to: '/blog', label: 'Blogs', position: 'left'},
         {
           href: 'https://github.com/hub-dsb-youth/ds-open-hub',
           label: 'GitHub',
@@ -110,10 +109,6 @@ const config: Config = {
             {
               label: 'Roadmap',
               to: '/docs/roadmap',
-            },
-            {
-              label: 'Blogs',
-              to: '/blog',
             },
           ],
         },
